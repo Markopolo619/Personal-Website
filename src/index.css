@@ -9,7 +9,7 @@ nav {
 }
 #nav{
 	padding-bottom: 5%;
-	padding-left: 12%;
+	padding-left: 21%;
 }
 nav a {
 	line-height: 50px;
@@ -111,5 +111,8 @@ span {
 #heading{
 	font-family:'Montserrat',sans-serif;
 	color: white;
-	
+}
+#about{
+	font-family: 'Poppins',sans-serif;
+	text-align: left;
 }

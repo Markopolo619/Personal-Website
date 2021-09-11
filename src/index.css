@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 nav {
 	margin: 27px auto 0;
 	position: relative;
@@ -108,8 +108,8 @@ span {
   margin-right: auto;
   border-radius: 20%;
 }
-.header{
-	font-family: 'poppins',sans-serif;
+#heading{
+	font-family:'Montserrat',sans-serif;
 	color: white;
 	
 }
